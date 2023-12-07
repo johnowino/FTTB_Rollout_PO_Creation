@@ -4,7 +4,13 @@
   "description": "REFramework based process to automation the purchase requisition process for Fibre to the Building orders",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.AdobePdfServices.IntegrationService.Activities": "[4.0.6]",
+    "UiPath.DocumentProcessing.Contracts": "[1.23.1]",
+    "UiPath.DocumentUnderstanding.Activities": "[2.4.1]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.24.0]",
+    "UiPath.DocumentUnderstanding.OCR.LocalServer": "[1.5.1]",
     "UiPath.Excel.Activities": "[2.22.2]",
+    "UiPath.PDF.Activities": "[3.16.0]",
     "UiPath.System.Activities": "[23.10.2]",
     "UiPath.Testing.Activities": "[23.10.0]",
     "UiPath.UIAutomation.Activities": "[23.10.3]"
