@@ -1,27 +1,11 @@
 ﻿BPA Number,Line,Description,Quantity,UOM,Price,Supplier,Site,Currency
-516302,47,Buildings ISP Fiber Deployment-  Incentive for Building Acquisition at zero fee,101,Each,0,SOLITON TELMEC LTD,NAIROBI,KES
-516302,78,"Aerial Fiber Deployment - As built documents (In autoCAD, mapinfo)",2,METER,5,SOLITON TELMEC LTD,NAIROBI,KES
-516302,30,BF Fiber Deployment OSP- As-Built Documentation soft and  in CM including all Connection details,3,METER,5.28,SOLITON TELMEC LTD,NAIROBI,KES
+516302,30,BF Fiber Deployment OSP- As-Built Documentation in hard and softcopy updated in Safaricom GIS Tool including all Connection details,3,METER,5.28,SOLITON TELMEC LTD,NAIROBI,KES
 516302,34,"BF Fiber Deployment OSP- Duct Inspection Test on existing duct system (Mandrel, brush, pressure etc.)",4,METER,8.8,SOLITON TELMEC LTD,NAIROBI,KES
 516302,29,BF Fiber Deployment OSP- CM based survey & design including all network elements fibres provisioning & statutory approval application drawings,5,METER,16,SOLITON TELMEC LTD,NAIROBI,KES
-516302,77,Field detailed Technical and Health and OSH Survey (report with site/route photos) & detailed route design (GIS & CAD) to output an implementable Design,10,METER,16,SOLITON TELMEC LTD,NAIROBI,KES
+516302,77,Field detailed Technical and Health and Safety Survey (report with site/route photos) & detailed route design (GIS & CAD) to output an implementable Design,10,METER,16,SOLITON TELMEC LTD,NAIROBI,KES
 516302,33,BF Fiber Deployment OSP- Route Cleaning,20,METER,17.6,SOLITON TELMEC LTD,NAIROBI,KES
-516302,5,GF Fibre Deployment OSP - Planning Services  Connect Master Based Design ( 0.6 M Trench ),30,Each,23.23,SOLITON TELMEC LTD,NAIROBI,KES
-516302,1,GF Fibre Deployment OSP - Planning Services ( 1.2 M Trench ),40,Each,23.23,SOLITON TELMEC LTD,NAIROBI,KES
-516302,114,Aerial Fibre Deployment OSP- Supply and installation of pole steel straps with accessories (buckle pins),50,Each,25,SOLITON TELMEC LTD,NAIROBI,KES
-516302,15,BF Fiber Deployment OSP- Installation of 1 X 12/10m  microduct in existing 32/26mm HDPE duct (Includes joints),1,METER,26.4,SOLITON TELMEC LTD,NAIROBI,KES
-516302,16,BF Fiber Deployment OSP- Installation of duct on wall attachment,100,METER,26.4,SOLITON TELMEC LTD,NAIROBI,KES
-516302,17,BF Fiber Deployment OSP- Pulling Cable in existing Duct,200,METER,30.8,SOLITON TELMEC LTD,NAIROBI,KES
-516302,18,BF Fiber Deployment OSP- Blowing upto 12-96 core Cable in existing Duct,400,METER,36.96,SOLITON TELMEC LTD,NAIROBI,KES
-516302,19,BF Fiber Deployment OSP- Blowing upto 144 core Cable in existing Duct,50,METER,36.96,SOLITON TELMEC LTD,NAIROBI,KES
-516302,87,"Aerial Fiber Deployment - Installation of aerial O.F.Cable & Tensioning (12, 24, 48, 96, 144 fibers)",50,METER,43,SOLITON TELMEC LTD,NAIROBI,KES
-516302,45,BF Fiber Deployment OSP- Project Management Incl of Health & Safety,60,METER,44,SOLITON TELMEC LTD,NAIROBI,KES
-516302,59,"Units ISP Fiber Deployment- Installation of 12, 24, 48, 96 core drop cable for ISP(Bend-Insensitive,armoured cable) Outdoor Armored cable, G657A2",70,METER,45,SOLITON TELMEC LTD,NAIROBI,KES
-516302,92,Aerial Fiber Deployment - Project Management Incl of Health & Safety,80,METER,47,SOLITON TELMEC LTD,NAIROBI,KES
-516302,7,GF Fibre Deployment OSP - Cable Installation ( 0.6 M Trench ),10,Each,54.4,SOLITON TELMEC LTD,NAIROBI,KES
-516302,3,GF Fibre Deployment OSP - Cable Installation ( 1.2 M Trench ),20,Each,54.4,SOLITON TELMEC LTD,NAIROBI,KES
-516302,4,GF Fibre Deployment OSP - Project Management ( 1.2 M Trench ),30,Each,59.63,SOLITON TELMEC LTD,NAIROBI,KES
-516302,8,GF Fibre Deployment OSP - Project Management ( Linearised 0.6 M Trench ),40,Each,59.63,SOLITON TELMEC LTD,NAIROBI,KES
-516302,137,Normal Logistics cost,50,Kilometer,64.01,SOLITON TELMEC LTD,NAIROBI,KES
-516302,110,Aerial Fibre Deployment OSP- Supply and Installation of approved Cable markers – ADSS Cable,400,METER,85,SOLITON TELMEC LTD,NAIROBI,KES
-516302,135,Supply & Install Cable Trunking,600,METER,100,SOLITON TELMEC LTD,NAIROBI,KES
+516302,1,GF Fibre Deployment OSP - Planning Services ( 1.2 M Trench ),30,Each, 23.23 ,SOLITON TELMEC LTD,NAIROBI,KES
+516302,5,GF Fibre Deployment OSP - Planning Services  Connect Master Based Design ( 0.6 M Trench ),40,Each, 23.23 ,SOLITON TELMEC LTD,NAIROBI,KES
+516302,58,"Units ISP Fiber Deployment- Installation of 1, 2, 4 core drop cable for ISP (Bend-Insensitive Fiber)Indoor/Outdoor drop cable Aramid Yam LSZH, G657A2",50,METER, 35.00 ,SOLITON TELMEC LTD,NAIROBI,KES
+516302,87,"Aerial Fiber Deployment - Installation of aerial O.F.Cable & Tensioning (12, 24, 48, 96, 144 fibers)",60,METER, 43.00 ,SOLITON TELMEC LTD,NAIROBI,KES
+516302,45,BF Fiber Deployment OSP- Project Management Incl of Health & Safety,70,METER, 44.00 ,SOLITON TELMEC LTD,NAIROBI,KES
