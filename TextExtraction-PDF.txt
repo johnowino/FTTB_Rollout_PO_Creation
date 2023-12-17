@@ -1,0 +1,75 @@
+Project Overview :
+
+Name: OPTIMAX_FTTB_OPTIMIZATION_2023-2024_ENB0264_
+KUSSCO_CENTER
+Description:
+Project leader: OPTIMAX
+Customer: SAFARICOM PLC
+Status: In Progress
+Start: 10/1/2023 8:37:11 PM
+Finish: 10/8/2023 8:37:11 PM
+
+Item Description Costs
+Service Costs Ksh 74,577.12
+Material costs Ksh 30,832.94
+Total Excluding VAT Ksh 105,410.06
+
+Report Created By tchepkorir Susan Terer
+<TChepkorir@Safaricom.co.ke>
+OPTIMAX_FTTB_OPTIMIZATION_2023-2024_ENB0264_ KUSSCO_CENTER Created: Wednesday, October 18, 2023Section A Service Costs
+Item Description Price / m QTY Total
+Linearised Rate for Fiber Deployment
+GF-Planning Services(1.2/0.6 Trench) 23.23 5 116.15
+GF-Project Management Incl of H&S (1.2/0.6 Trench) 59.63 5 298.15
+GF-Civil Works for Main Route(1.2 Trench) 556.82 5 2,784.10
+Total Linearised Rate : Ksh 3,198.40
+Item Description UOM Price QTY Total
+Installation of 1, 2, 4 core drop cable for ISP m 35.00 40 1,400.00
+Installation of Aerial Cable m 43.00 212 9,116.00
+Installation of ATB pce 528.00 1 528.00
+Installation of FAT 12, 24, 48 ports pce 880.00 1 880.00
+Supply, Install corrugated PVC pipe m 80.00 40 3,200.00
+As built documents m 5.28 99 522.72
+Field detailed survey report m 16.00 99 1,584.00
+Project Management Aerial Incl of H&S per meter m 47.00 99 4,653.00
+Supply and Installation of approved Cable markers pce 85.00 1 85.00
+Pole Down-lead clamp, Supply and Installation pce 1,500.00 1 1,500.00
+Pole Cable Bracket, Supply and Installation pce 2,200.00 1 2,200.00
+Pole, Supply & installation Wooden 8m pce 11,000.00 2 22,000.00
+Supply and installation of Universal Pole bracket pce 1,250.00 3 3,750.00
+Pole Tension Clamp, Supply and Installation pce 2,300.00 6 13,800.00
+ISP Building As built documents per building pce 880.00 1 880.00
+ISP Building Survey, Design per building pce 4,400.00 1 4,400.00
+Splicing, Testing and Commissioning  1 Core pce 440.00 2 880.00
+Total Brown Field : Ksh 71,378.72
+
+Report Created By tchepkorir Susan Terer
+<TChepkorir@Safaricom.co.ke>
+OPTIMAX_FTTB_OPTIMIZATION_2023-2024_ENB0264_ KUSSCO_CENTER Created: Wednesday, October 18, 2023Section B Material costs
+Item Description UOM Price QTY Total
+HDPE Low Friction, Silicon lined 32/26mm-New meter 83.84 26 2,179.84
+ADSS fiber cable, 100m s/s clear span 24xSM G652D meter 100.00 212 21,200.00
+Indoor LSZH -Drop-1-G.657A1 (round type) meter 25.19 40 1,007.60
+FAT 12 Port wall mounted Indoor plastic Piece 6,025.50 1 6,025.50
+2 core Access terminal box (ATB) Piece 420.00 1 420.00
+Total Material costs : Ksh 30,832.94
+
+Report Created By tchepkorir Susan Terer
+<TChepkorir@Safaricom.co.ke>
+OPTIMAX_FTTB_OPTIMIZATION_2023-2024_ENB0264_ KUSSCO_CENTER Created: Wednesday, October 18, 2023APPROVAL:
+Title Name Signature Date
+
+Planner (Contractor)
+
+Project Manager
+(Contractor)
+Safaricom Plc Engineer
+
+Safaricom Plc Manager
+
+Safaricom Plc Sn.
+Manager
+
+Report Created By tchepkorir Susan Terer
+<TChepkorir@Safaricom.co.ke>
+OPTIMAX_FTTB_OPTIMIZATION_2023-2024_ENB0264_ KUSSCO_CENTER Created: Wednesday, October 18, 2023
