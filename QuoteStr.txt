@@ -1,0 +1,72 @@
+Project Overview :
+
+Name: SOLITON_FTTB_2023/2024_KLF149217- KILIFI COUNTY  MEDICAL
+COMPLEX
+Description:
+Project leader: SOLITON TELMEC LTD
+Customer: SAFARICOM PLC
+Status: In Progress
+Start: 10/13/2023 11:31:31 AM
+Finish: 10/20/2023 11:31:31 AM
+
+Item Description Costs
+Service Costs Ksh 276,804.52
+Material costs Ksh 52,258.40
+Total Excluding VAT Ksh 329,062.92
+
+Report Created By cowuor Christine Owuor
+SOLITON_FTTB_2023/2024_KLF149217- KILIFI COUNTY  MEDICAL COMPLEX Created: Wednesday, October 18, 2023
+Section A Service Costs
+Item Description Price / m QTY Total
+Linearised Rate for Fiber Deployment
+GF-Planning Services(1.2/0.6 Trench) 23.23 2 46.46
+GF-Project Management Incl of H&S (1.2/0.6 Trench) 59.63 2 119.26
+GF-Civil Works for Main Route(1.2 Trench) 556.82 2 1,113.64
+Total Linearised Rate : Ksh 1,279.36
+Item Description UOM Price QTY Total
+Installation of Aerial Cable m 43.00 510 21,930.00
+Installation of ATB pce 528.00 1 528.00
+As built documents m 5.28 397 2,096.16
+Field detailed survey report m 16.00 397 6,352.00
+Project Management Aerial Incl of H&S per meter m 47.00 397 18,659.00
+Pole Cable Bracket, Supply and Installation pce 2,200.00 2 4,400.00
+Pole Down-lead clamp, Supply and Installation pce 1,500.00 3 4,500.00
+Pole Support, Supply and Installation pce 9,000.00 3 27,000.00
+Pole, Supply & installation Wooden 10m pce 13,500.00 4 54,000.00
+Pole Tangent Support, Supply and Installation pce 1,800.00 5 9,000.00
+Pole, Supply & installation Wooden 8m pce 11,000.00 5 55,000.00
+Supply and installation of Universal Pole bracket pce 1,250.00 6 7,500.00
+Pole Tension Clamp, Supply and Installation pce 2,300.00 12 27,600.00
+ISP Building As built documents per building pce 880.00 1 880.00
+ISP Building Survey, Design per building pce 4,400.00 1 4,400.00
+ISP Building Acquisition pce 30,800.00 1 30,800.00
+Splicing, Testing and Commissioning  1 Core pce 440.00 2 880.00
+Total Brown Field : Ksh 275,525.16
+
+Report Created By cowuor Christine Owuor
+SOLITON_FTTB_2023/2024_KLF149217- KILIFI COUNTY  MEDICAL COMPLEX Created: Wednesday, October 18, 2023
+Section B Material costs
+Item Description UOM Price QTY Total
+2 core Access terminal box (ATB) Piece 420.00 1 420.00
+ADSS fiber cable, 100m s/s clear span 24xSM G652D meter 100.00 510 51,000.00
+HDPE Low Friction, Silicon lined 32/26mm-New meter 83.84 10 838.40
+Total Material costs : Ksh 52,258.40
+
+Report Created By cowuor Christine Owuor
+SOLITON_FTTB_2023/2024_KLF149217- KILIFI COUNTY  MEDICAL COMPLEX Created: Wednesday, October 18, 2023
+APPROVAL:
+Title Name Signature Date
+
+Planner (Contractor)
+
+Project Manager
+(Contractor)
+Safaricom Plc Engineer
+
+Safaricom Plc Manager
+
+Safaricom Plc Sn.
+Manager
+
+Report Created By cowuor Christine Owuor
+SOLITON_FTTB_2023/2024_KLF149217- KILIFI COUNTY  MEDICAL COMPLEX Created: Wednesday, October 18, 2023
